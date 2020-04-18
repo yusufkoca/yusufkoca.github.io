@@ -20,13 +20,17 @@
     Interactive & Informative app to learn astronomy for kids.
   description: | # this will include new lines to allow paragraphs
     Freelance project that I developed for a space museum. <mark>Phaser3</mark> used as a 2d game engine. Build to desktop platform with <mark>Electron</mark>
-- layout: center
+- layout: top-middle
   name: Company Websites
-  link: www.ytbcocuk.com
-  link: www.tcdd.gov.tr
-  link: www.rihtimyapi.com.tr
-  link: www.omerbaskaya.av.tr
   quote: >
     Websites with dynamic content.
   description: | # this will include new lines to allow paragraphs
     I developed many websites for work and for friends. It tought me the basics of web from basic HTML to backend frameworks like Laravel. It's also a real fullstack experience that I have to register domains, deploy web apps, mind security concerns, SEO, backups etc.
+- layout: left
+  link: www.ytbcocuk.com
+- layout: left
+  link: www.tcdd.gov.tr
+- layout: left
+  link: www.rihtimyapi.com.tr
+- layout: left
+  link: www.omerbaskaya.av.tr

@@ -6,7 +6,7 @@
   quote: >
     ES5, ES6, React, Redux, Fabric.js, Ext.js, Jaeger(internal js ui library)
   description: | # this will include new lines to allow paragraphs
-    As a part of Web Infrustructure team we develop apps and components that commonly used for more than one projects. 
+    As a part of Web Infrastructure team we develop apps and components that commonly used for more than one projects. 
     Main responsibilities include developing apps with React and giving support to older apps written with fairly older libraries like JQuery and Ext.js.
     Tools and technologies used: Git, Jira, Maven, Jenkins, Npm, Webpack, Docker
 - layout: right
@@ -17,9 +17,9 @@
   quote: >
     PHP, Laravel, Node.js, Unity
   description: | # this will include new lines to allow paragraphs
-    It all begun when a close friend asked me to help him for a freelance job that has a tighth deadline. It brought me good money(at least for a student). Then we do more jobs and developed projects together. After almost two year of stundying & freelancing we graduated and established a small startup.
-    Unelabs has accomplished more than enough. Even if it did not make us rich and famous(apparently), it tought us a lot, not only technically but also socially, economically etc. 
-    Unelabs' main focus was Virtual Reality & Augmented Reality, but we also developed websites for money. Old freelance habits... I was mostly developing API's for our VR & AR apps. I had some Unity experince there too.
+    It all begun when a close friend asked me to help him for a freelance job that has a tight deadline. It brought me good money(at least for a student). Then we do more jobs and developed projects together. After almost two year of studying & freelancing we graduated and established a small startup.
+    Unelabs has accomplished more than enough. Even if it did not make us rich and famous(apparently), it taught us a lot, not only technically but also socially, economically etc. 
+    Unelabs' main focus was Virtual Reality & Augmented Reality, but we also developed websites for money. Old freelance habits... I was mostly developing API's for our VR & AR apps. I had some Unity experience there too.
 - layout: left
   company: IBM
   link: www.ibm.com
