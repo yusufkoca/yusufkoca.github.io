@@ -22,7 +22,7 @@ linkedin_username: ysfkoca
 
 # About Section
 # about_title: About Me
-about_profile_image: images/photo.png
+about_profile_image: images/profilkare.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Yusuf. I like to call myself a Javascript Developer which I have experience and interest to learn new things about it. I currently work as Frontend Developer.
 
@@ -38,13 +38,16 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+# more_title: Enough technical
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  27 years old world citizen without a passport. I currently live in Ankara, Turkey with my dearest wife. I grow up in Denizli which I'm proud of for no reason. 
+  Things I enjoy doing and/or talking about:
+   - Comics (Huge Batman Fan!)
+   - Theatre (Nothing adventureous than being on the stage.)
+   - Board Games
+   - Movies (Anything from old classics to teenage vampire ones. I like to try every taste.)
+   - History
+   - Crossword
 
 # Footer
 footer_show_references: true

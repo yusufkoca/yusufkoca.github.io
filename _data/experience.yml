@@ -8,7 +8,7 @@
   description: | # this will include new lines to allow paragraphs
     As a part of Web Infrustructure team we develop apps and components that commonly used for more than one projects. 
     Main responsibilities include developing apps with React and giving support to older apps written with fairly older libraries like JQuery and Ext.js.
-    Tools and technologies used: Git, Jira, Jenkins, Docker
+    Tools and technologies used: Git, Jira, Maven, Jenkins, Npm, Webpack, Docker
 - layout: right
   company: Unelabs Software & Simulation
   link: www.unelabs.com/
