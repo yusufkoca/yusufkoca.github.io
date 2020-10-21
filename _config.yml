@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Yusuf Koca
-title: Javascript Developer
+title: JavaScript Developer
 email: yfkoca@yandex.com
 website: www.yusufkoca.dev
 
@@ -24,9 +24,9 @@ linkedin_username: ysfkoca
 # about_title: About Me
 about_profile_image: images/profilkare.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Yusuf. I like to call myself a Javascript Developer which I have experience and interest to learn new things about it. I currently work as Frontend Developer.
+  Hi, my name's Yusuf. I like to call myself a JavaScript Developer which I have experience and interest to learn new things about it. I currently work as Frontend Developer.
 
-  I am most skilled in: <mark>Javascript</mark> and <mark>React</mark>
+  I am most skilled in: <mark>JavaScript</mark> and <mark>React.js</mark>
 
 # Projects Section
 # projects_title: Projects

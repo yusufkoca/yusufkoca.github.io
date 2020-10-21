@@ -1,4 +1,4 @@
-- layout: top-middle
+- layout: left
   name: Covid19 Monitor
   link: hepcovid19.netlify.com
   github: yusufkoca/covid19-monitor
@@ -6,20 +6,41 @@
     Numbers, graphs, statistics, charts and comparisons about Covid19. Data is provided by JHU CSSE.
   description: | # this will include new lines to allow paragraphs
     My hobby project developed to practice <mark>GraphQL</mark> and <mark>Chart.js</mark>. Also started to use <mark>Typescript</mark> in React. It was a good little journey that kept me busy at days of quarantine.
+
+- layout: left
+  name: Movie-UP
+  link: movie-up-next.vercel.app
+  github: yusufkoca/movie-up-next
+  quote: >
+    Simple React App that provides users movie search capabilities from IMDB via OMDB API.
+  description: | # this will include new lines to allow paragraphs
+    A frontend challenge developed with <mark>React.js</mark> and <mark>Next.js</mark>.
+
+- layout: left
+  name: Last Letter Game (TTS & STT)
+  link: last-letter-game.netlify.app
+  github: yusufkoca/last-letter-game
+  quote: >
+    Last letter game with Turkish names. Inputs are taken via mic. So you need to speak out loud!
+  description: | # this will include new lines to allow paragraphs
+    A frontend challenge developed with <mark>React.js</mark> and <mark>Typescript</mark>. <mark>SpeechRecognition & SpeechSynthesis</mark> features of WEB API is used.
+
 - layout: left
   name: Electromagnetic Spectrum
   link: electromagnetic-spectrum.netlify.com
   quote: >
     Interactive & Informative app to learn physics for kids.
   description: | # this will include new lines to allow paragraphs
-    Freelance project that I took part on. Developed with Vanilla JS, <mark>React</mark> and <mark>PixiJS</mark>
-- layout: right
+    Freelance project that I took part on. Developed with Vanilla JS, <mark>React.js</mark> and <mark>PixiJS</mark>
+
+- layout: left
   name: Galaxy Hunter
   link: galaxy-hunter.netlify.com
   quote: >
     Interactive & Informative app to learn astronomy for kids.
   description: | # this will include new lines to allow paragraphs
     Freelance project that I developed for a space museum. <mark>Phaser3</mark> used as a 2d game engine. Build to desktop platform with <mark>Electron</mark>
+
 - layout: top-middle
   name: Company Websites
   quote: >
