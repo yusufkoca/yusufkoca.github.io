@@ -2,12 +2,12 @@
   company: Dekob Technology
   link: dekob.net
   job_title: Frontend Developer
-  dates: May 2018 - July 2020
+  dates: July 2020 - November 2020
   quote: >
     React.js, Redux, Typescript, React-Router, Node.js
   description: | # this will include new lines to allow paragraphs
-    Dekob is a high potential startup with a small but powerful team developing real time communication apps.
-    My role is to develop and maintain web frontend of products. 
+    Dekob is a startup with a small but powerful team developing real time communication apps.
+    My role was to develop and maintain web frontend of products. 
     Tools and technologies used: Git, Jira, Npm, Webpack, Docker, Slack, Postman
 
 - layout: right
@@ -30,9 +30,14 @@
   quote: >
     PHP, Laravel, Node.js, Unity
   description: | # this will include new lines to allow paragraphs
-    It all begun when a close friend asked me to help him for a freelance job that has a tight deadline. It brought me good money(at least for a student). Then we do more jobs and developed projects together. After almost two year of studying & freelancing we graduated and established a small startup.
-    Unelabs has accomplished more than enough. Even if it did not make us rich and famous(apparently), it taught us a lot, not only technically but also socially, economically etc. 
-    Unelabs' main focus was Virtual Reality & Augmented Reality, but we also developed websites for money. Old freelance habits... I was mostly developing API's for our VR & AR apps. I had some Unity experience there too.
+    It all begun when a close friend asked me to help him for a freelance job that has a tight deadline. 
+    It brought me good money(at least for a student). Then we do more jobs and developed projects together. 
+    After almost two year of studying & freelancing we graduated and established a small startup.
+    
+    Unelabs has accomplished more than enough. 
+    Even if it did not make us rich and famous(apparently), it taught us a lot, not only technically but also socially, economically etc. 
+    Unelabs' main focus was Virtual Reality & Augmented Reality, but we also developed websites for money. 
+    Old freelance habits... I was mostly developing API's for our VR & AR apps. I had some Unity experience there too.
 
 - layout: right
   company: IBM

@@ -24,7 +24,8 @@ linkedin_username: ysfkoca
 # about_title: About Me
 about_profile_image: images/profilkare.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Yusuf. I like to call myself a JavaScript Developer which I have experience and interest to learn new things about it. I currently work as Frontend Developer.
+  Hi, my name's Yusuf. I like to call myself a JavaScript Developer which I have experience and interest to learn new things about it. 
+  I currently work as Frontend Developer.
 
   I am most skilled in: <mark>JavaScript</mark> and <mark>React.js</mark>
 
@@ -40,7 +41,9 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: Enough technical
 more_content: | # this will include new lines to allow paragraphs
-  27 years old world citizen without a passport. I currently live in Ankara, Turkey with my dearest wife. I grow up in Denizli which I'm proud of for no reason. 
+  27 years old world citizen without a passport. I currently live in Ankara, Turkey with my dearest wife. 
+  I grow up in Denizli which I'm proud of for no reason. 
+
   Things I enjoy doing and/or talking about:
    - Comics (Huge Batman Fan!)
    - Theatre (Nothing adventureous than being on the stage.)
@@ -50,7 +53,7 @@ more_content: | # this will include new lines to allow paragraphs
    - Crossword
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme

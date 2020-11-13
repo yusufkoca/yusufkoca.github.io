@@ -7,3 +7,12 @@
   description: | # this will include new lines to allow paragraphs
     Programming journey begun here. I learned fundamental programming skills along with languages like C, Java, JavaScript.
     Graduated as second best student and senior project of my team awarded for being Best Innovative Senior Project.
+
+- layout: right
+  name: Waterford Institute of Technology
+  dates: 2013
+  qualification: Erasmus Exchange Programme Student
+  quote: >
+    Waterford Institute of Technology (WIT) is a university-level institution in the South-East of Ireland with over 10000 students and 1000 staff.
+  description: | # this will include new lines to allow paragraphs
+    I had lived and studied in Ireland for a semester during my college years. I had precious lessons from valuable instructors, also loved the country and culture.

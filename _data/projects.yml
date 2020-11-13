@@ -23,7 +23,16 @@
   quote: >
     Last letter game with Turkish names. Inputs are taken via mic. So you need to speak out loud!
   description: | # this will include new lines to allow paragraphs
-    A frontend challenge developed with <mark>React.js</mark> and <mark>Typescript</mark>. <mark>SpeechRecognition & SpeechSynthesis</mark> features of WEB API is used.
+      A frontend challenge developed with <mark>React.js</mark> and <mark>Typescript</mark>. <mark>SpeechRecognition & SpeechSynthesis</mark> features of WEB API is used.
+
+- layout: left
+  name: Tower of Hanoi Puzzle
+  link: tower-of-hanoi-puzzle.netlify.app/
+  github: yusufkoca/tower-of-hanoi
+  quote: >
+    Tower of Hanoi puzzle game developed for browser.
+  description: | # this will include new lines to allow paragraphs
+      A hobby project developed with <mark>React.js</mark> and <mark>Styled Components</mark>. <mark>React DnD</mark> library is used for Drag and Drop operations.
 
 - layout: left
   name: Electromagnetic Spectrum
