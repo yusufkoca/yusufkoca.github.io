@@ -1,14 +1,38 @@
 - layout: right
+  company: Socio part of Webex
+  link: socio.events
+  job_title: Software Engineer
+  dates: May 2021 - Current
+  quote: >
+    React.js, Typescript, GraphQL
+  description: | # this will include new lines to allow paragraphs
+    Socio is an end-to-end event management platform for virtual, hybrid, and in-person events.
+    Being a part of the frontend team I am responsible for developing new features and maintenance for the event platform.
+    Socio now is acquired by *Cisco* and is a part of *Webex*.
+
+- layout: right
+  company: adesso Turkey
+  link: adesso.com.tr
+  job_title: Senior Frontend Developer
+  dates: October 2020 - May 2021
+  quote: >
+    JavaScript, React.js, Redux, Typescript
+  description: | # this will include new lines to allow paragraphs
+    I have been a part of two different teams and shipped two successful products to customers from Switzerland and Germany.
+    My first fully remote international experience. The team and customers are all around the world.
+    Tools and technologies used: Git, Jira, Postman
+
+- layout: right
   company: Dekob Technology
   link: dekob.net
-  job_title: Frontend Developer
-  dates: July 2020 - November 2020
+  job_title: Senior Frontend Developer
+  dates: July 2020 - October 2020
   quote: >
     React.js, Redux, Typescript, React-Router, Node.js
   description: | # this will include new lines to allow paragraphs
-    Dekob is a startup with a small but powerful team developing real time communication apps.
-    My role was to develop and maintain web frontend of products. 
-    Tools and technologies used: Git, Jira, Npm, Webpack, Docker, Slack, Postman
+    Dekob is a startup with a small but powerful team developing real-time communication apps.
+    My role was to develop and maintain the web frontend of products. 
+    Tools and technologies used: Git, Jira, Docker, Postman
 
 - layout: right
   company: Havelsan
@@ -18,7 +42,7 @@
   quote: >
     ES5, ES6, React.js, Redux, Fabric.js, Ext.js, Jaeger(internal js ui library)
   description: | # this will include new lines to allow paragraphs
-    As a part of Web Infrastructure team I developed apps and components that commonly used for more than one projects. 
+    As a part of the Web Infrastructure team, I developed apps and components that are commonly used for more than one project. 
     Main responsibilities include developing apps with React.js and giving support to older apps written with fairly older libraries like JQuery and Ext.js.
     Tools and technologies used: Git, Jira, Maven, Jenkins, Npm, Webpack, Docker
 
@@ -30,14 +54,14 @@
   quote: >
     PHP, Laravel, Node.js, Unity
   description: | # this will include new lines to allow paragraphs
-    It all begun when a close friend asked me to help him for a freelance job that has a tight deadline. 
-    It brought me good money(at least for a student). Then we do more jobs and developed projects together. 
-    After almost two year of studying & freelancing we graduated and established a small startup.
+    It all began when a close friend asked me to help him with a freelance job that has a tight deadline. 
+    It brought me good money(at least for a student). Then we did more jobs and developed projects together. 
+    After almost two years of studying & freelancing we graduated and established a small startup.
     
     Unelabs has accomplished more than enough. 
-    Even if it did not make us rich and famous(apparently), it taught us a lot, not only technically but also socially, economically etc. 
+    Even if it did not make us rich and famous(apparently), it taught us a lot, not only technically but also socially, economically, etc. 
     Unelabs' main focus was Virtual Reality & Augmented Reality, but we also developed websites for money. 
-    Old freelance habits... I was mostly developing API's for our VR & AR apps. I had some Unity experience there too.
+    Old freelance habits... I was mostly developing APIs for our VR & AR apps. I had some Unity experience there too.
 
 - layout: right
   company: IBM
