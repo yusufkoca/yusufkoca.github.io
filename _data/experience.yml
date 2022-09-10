@@ -1,5 +1,5 @@
 - layout: right
-  company: Socio part of Webex
+  company: Webex Events
   link: socio.events
   job_title: Software Engineer
   dates: May 2021 - Current
@@ -8,13 +8,13 @@
   description: | # this will include new lines to allow paragraphs
     Socio is an end-to-end event management platform for virtual, hybrid, and in-person events.
     Being a part of the frontend team I am responsible for developing new features and maintenance for the event platform.
-    Socio now is acquired by *Cisco* and is a part of *Webex*.
+    Socio now is acquired by *Cisco* and is now *Webex Events*.
 
 - layout: right
-  company: adesso Turkey
+  company: adesso
   link: adesso.com.tr
   job_title: Senior Frontend Developer
-  dates: October 2020 - May 2021
+  dates: 2020 - 2021
   quote: >
     JavaScript, React.js, Redux, Typescript
   description: | # this will include new lines to allow paragraphs
@@ -23,22 +23,10 @@
     Tools and technologies used: Git, Jira, Postman
 
 - layout: right
-  company: Dekob Technology
-  link: dekob.net
-  job_title: Senior Frontend Developer
-  dates: July 2020 - October 2020
-  quote: >
-    React.js, Redux, Typescript, React-Router, Node.js
-  description: | # this will include new lines to allow paragraphs
-    Dekob is a startup with a small but powerful team developing real-time communication apps.
-    My role was to develop and maintain the web frontend of products. 
-    Tools and technologies used: Git, Jira, Docker, Postman
-
-- layout: right
   company: Havelsan
   link: havelsan.com.tr
   job_title: Frontend Developer
-  dates: May 2018 - July 2020
+  dates: 2018 - 2020
   quote: >
     ES5, ES6, React.js, Redux, Fabric.js, Ext.js, Jaeger(internal js ui library)
   description: | # this will include new lines to allow paragraphs

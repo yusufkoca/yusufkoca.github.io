@@ -1,6 +1,25 @@
 - layout: left
+  name: Movie-UP
+  link: movie-up-next.vercel.app
+  github: yusufkoca/movie-up-next
+  quote: >
+    Simple React App that provides users movie search capabilities from IMDB via OMDB API.
+  description: | # this will include new lines to allow paragraphs
+    A frontend challenge developed with <mark>React.js</mark> and <mark>Next.js</mark>.
+
+- layout: left
+  name: Tower of Hanoi Puzzle
+  link: tower-of-hanoi-puzzle.netlify.app/
+  github: yusufkoca/tower-of-hanoi
+  quote: >
+    Tower of Hanoi puzzle game developed for browser.
+  description: | # this will include new lines to allow paragraphs
+      A hobby project developed with <mark>React.js</mark> and <mark>Styled Components</mark>. <mark>React DnD</mark> library is used for Drag and Drop operations.
+
+
+- layout: left
   name: Rebel Tiger Club
-  link: rebeltigerclub.com
+  link: tiger-club.netlify.app
   quote: >
     Landing page for an NFT project.
   description: | # this will include new lines to allow paragraphs
@@ -15,35 +34,6 @@
     A gif search and filter app that enables users to add to their favorites. Giphy API is used.
   description: | # this will include new lines to allow paragraphs
     A frontend challenge developed with <mark>React.js</mark> and <mark>Typescript</mark>.
-    
-- layout: left
-  name: Web Performance Analytic App
-  github: yusufkoca/perfanalytics
-  quote: >
-    Collects and visualize website performance
-  description: | # this will include new lines to allow paragraphs
-    A full-stack challenge with a backend API, a frontend dashboard, and a client library to push data to API.
-    The client library is vanilla <mark>JavaScript</mark>. It collects different browser performance data and sends it to the backend.
-    Backend serves a REST API, uses <mark>MongoDB</mark> cloud for storage. <mark>Dockerized</mark> and deploys to <mark>Heroku</mark> automatically with <mark>CircleCI</mark>
-    Data dashboard visualizes collected data inside a chart using <mark>React.js</mark> and <mark>Chart.js</mark>
-
-- layout: left
-  name: Covid19 Monitor
-  link: hepcovid19.netlify.com
-  github: yusufkoca/covid19-monitor
-  quote: >
-    Numbers, graphs, statistics, charts and comparisons about Covid19. Data is provided by JHU CSSE.
-  description: | # this will include new lines to allow paragraphs
-    My hobby project developed to practice <mark>GraphQL</mark> and <mark>Chart.js</mark>. Also started to use <mark>Typescript</mark> in React. It was a good little journey that kept me busy on days of quarantine.
-
-- layout: left
-  name: Movie-UP
-  link: movie-up-next.vercel.app
-  github: yusufkoca/movie-up-next
-  quote: >
-    Simple React App that provides users movie search capabilities from IMDB via OMDB API.
-  description: | # this will include new lines to allow paragraphs
-    A frontend challenge developed with <mark>React.js</mark> and <mark>Next.js</mark>.
 
 - layout: left
   name: Last Letter Game (TTS & STT)
@@ -53,40 +43,3 @@
     Last letter game with Turkish names. Inputs are taken via mic. So you need to speak out loud!
   description: | # this will include new lines to allow paragraphs
       A frontend challenge developed with <mark>React.js</mark> and <mark>Typescript</mark>. <mark>SpeechRecognition & SpeechSynthesis</mark> features of WEB API are used.
-
-- layout: left
-  name: Tower of Hanoi Puzzle
-  link: tower-of-hanoi-puzzle.netlify.app/
-  github: yusufkoca/tower-of-hanoi
-  quote: >
-    Tower of Hanoi puzzle game developed for browser.
-  description: | # this will include new lines to allow paragraphs
-      A hobby project developed with <mark>React.js</mark> and <mark>Styled Components</mark>. <mark>React DnD</mark> library is used for Drag and Drop operations.
-
-- layout: left
-  name: Electromagnetic Spectrum
-  link: electromagnetic-spectrum.netlify.com
-  quote: >
-    Interactive & Informative app to learn physics for kids.
-  description: | # this will include new lines to allow paragraphs
-    A freelance project that I took part in. Developed with Vanilla JS, <mark>React.js</mark> and <mark>PixiJS</mark>
-    Intended to use on big screens inside a local science museum. [See it in action](images/electromagnetic_spectrum.jpg)
-
-- layout: left
-  name: Galaxy Hunter
-  link: galaxy-hunter.netlify.com
-  quote: >
-    Interactive & Informative app to learn astronomy for kids.
-  description: | # this will include new lines to allow paragraphs
-    A freelance project that I developed for a space museum. <mark>Phaser3</mark> was used as a 2d game engine. Build for the desktop platform with <mark>Electron</mark>
-    Intended to use on big screens inside a local science museum. [See it in action](images/galaxy_hunter.jpg)
-
-- layout: top-middle
-  name: Company Websites
-  quote: >
-    Websites with dynamic content.
-  description: | # this will include new lines to allow paragraphs
-    At the beginning of my career, even when I was still a university student, 
-    I had developed many websites for work and friends. 
-    It taught me the basics of the web from basic HTML to backend frameworks like Laravel. 
-    It's also a real full-stack experience that I have to register domains, deploy web apps, mind security concerns, SEO, backups, etc.

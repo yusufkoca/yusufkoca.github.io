@@ -41,17 +41,15 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: Enough technical
 more_content: | # this will include new lines to allow paragraphs
-  28 years old world citizen without a passport. I currently live in Ankara, Turkey with my dearest wife. 
+  29 years old world citizen without a passport. I currently live in Ankara, Turkey with my dearest wife. 
   I grow up in Denizli which I'm proud of for no reason. 
 
   Things I enjoy doing and/or talking about:
    - Comics (Huge Batman Fan!)
-   - Theatre (Nothing adventureous than being on the stage.)
    - Board Games
+   - Smart Home
    - House Plants
-   - Movies (Anything from old classics to teenage vampire ones. I like to try every taste.)
    - History
-   - Crossword
 
 # Footer
 footer_show_references: false
