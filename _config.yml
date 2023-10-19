@@ -27,7 +27,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Yusuf. I like to call myself a JavaScript Developer which I have experience and interest in learning new things about it. 
   I currently work as a Frontend Developer.
 
-  I am most skilled in: <mark>JavaScript</mark> and <mark>React.js</mark>
+  I am most skilled in: <mark>JavaScript</mark> <mark>TypeScript</mark> and <mark>React.js</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -41,14 +41,15 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: Enough technical
 more_content: | # this will include new lines to allow paragraphs
-  29 years old world citizen without a passport. I currently live in Ankara, Turkey with my dearest wife. 
+  30 years old world citizen without a passport. I currently live in Ankara, Turkey with my dearest wife. 
   I grow up in Denizli which I'm proud of for no reason. 
 
   Things I enjoy doing and/or talking about:
    - Comics (Huge Batman Fan!)
    - Board Games
    - Smart Home
-   - House Plants
+   - Investing
+   - Boxing
    - History
 
 # Footer

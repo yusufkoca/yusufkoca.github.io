@@ -12,7 +12,7 @@
   link: tower-of-hanoi-puzzle.netlify.app/
   github: yusufkoca/tower-of-hanoi
   quote: >
-    Tower of Hanoi puzzle game developed for browser.
+    Tower of Hanoi puzzle game for browser.
   description: | # this will include new lines to allow paragraphs
       A hobby project developed with <mark>React.js</mark> and <mark>Styled Components</mark>. <mark>React DnD</mark> library is used for Drag and Drop operations.
 
@@ -31,9 +31,9 @@
   link: giphy-searchy.netlify.app
   github: yusufkoca/giphy-search
   quote: >
-    A gif search and filter app that enables users to add to their favorites. Giphy API is used.
+    A gif search and filter app that enables users to add to their favorites. 
   description: | # this will include new lines to allow paragraphs
-    A frontend challenge developed with <mark>React.js</mark> and <mark>Typescript</mark>.
+    A frontend challenge developed with <mark>React.js</mark> and <mark>Typescript</mark>. Giphy API is used.
 
 - layout: left
   name: Last Letter Game (TTS & STT)
@@ -43,3 +43,12 @@
     Last letter game with Turkish names. Inputs are taken via mic. So you need to speak out loud!
   description: | # this will include new lines to allow paragraphs
       A frontend challenge developed with <mark>React.js</mark> and <mark>Typescript</mark>. <mark>SpeechRecognition & SpeechSynthesis</mark> features of WEB API are used.
+
+- layout: left
+  name: Age of Empires Units
+  link: age-of-empire-units.netlify.app/units
+  github: yusufkoca/age-of-empires-units
+  quote: >
+    List and filter component example
+  description: | # this will include new lines to allow paragraphs
+      A small <mark>React.js</mark> and <mark>Typescript</mark> component to display units from video game Age of Empires.
