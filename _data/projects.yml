@@ -1,4 +1,13 @@
 - layout: left
+  name: Muhabir AI
+  link: instagram.com/muhabirai
+  quote: >
+    AI-Powered News Summarizer & Instagram Auto-Poster
+  description: | # this will include new lines to allow paragraphs
+    Muhabir AI is an automation project I built that summarizes the most important daily news with AI and automatically shares them on Instagram as stories and posts. 
+    This was a no-code automation project built with <mark>Zapier</mark>, <mark>ChatGPT API</mark>, <mark>SERPAPI</mark>, <mark>Buffer</mark>, and <mark>Placid</mark>.
+
+- layout: left
   name: Movie-UP
   link: movie-up-next.vercel.app
   github: yusufkoca/movie-up-next
